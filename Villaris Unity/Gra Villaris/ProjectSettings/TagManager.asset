@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - cm
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Enemies
+  - Damageable
+  - Dead
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: light
+    uniqueID: 1970171939
+    locked: 0
+  - name: zmiana
+    uniqueID: 3232783967
+    locked: 0
+  - name: gory/lasy
+    uniqueID: 3986704365
+    locked: 0
+  - name: drzewa
+    uniqueID: 1169682047
+    locked: 0
+  - name: ognisko
+    uniqueID: 2851692579
+    locked: 0
+  - name: Enemy
+    uniqueID: 3517299933
+    locked: 0
+  - name: Player
+    uniqueID: 3961081699
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
